@@ -1,0 +1,116 @@
+DATE: 10/21/19       STUDENT REPORT           XXX          PAGE  1
+
+     DEPARTMENT CODE          COMP
+
+          CLASS CODE  CS201
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+
+       Jon Jones                   80      70     100      90     B
+       Thomas Kazinski             80      75      82      99     B
+       Mark Jensen                 70      72      75      71     C
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           CS201 IS     3
+
+          CLASS CODE  CS250
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Thomas Christopher          60      62      68      61     D
+       Judy Filletti               75      85      95      85     B
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           CS250 IS     2
+
+          CLASS CODE  CS491
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Buggs Bunny                 80      90      95      70     B
+       Bill Gates                  40      42      43      45     F
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           CS491 IS     2
+
+
+TOTAL NUMBER OF STUDENTS FOR DEPARTMENT      COMP IS      7
+
+     DEPARTMENT CODE          ENGL
+
+          CLASS CODE  EN102
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Magnolia Blossom            80      75      82      99     B
+       Snow White                  70      72      75      71     C
+       John Jones                  75      60      62      61     D
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           EN102 IS     3
+
+          CLASS CODE  EN103
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Thomas Kazinski             90      92      93      99     A
+       Thomas Christopher          80      82      83      85     B
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           EN103 IS     2
+
+
+TOTAL NUMBER OF STUDENTS FOR DEPARTMENT      ENGL IS      5
+
+     DEPARTMENT CODE          MATH
+
+          CLASS CODE  MA101
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Bill Gates                  60      62      68      61     D
+       Steve Jobs                  80      90      95      70     B
+       Snow White                  40      42      43      45     F
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           MA101 IS     3
+
+          CLASS CODE  MA102
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       James Mitchell             100     100     100     100     A
+       Travis Gunter              100     100     100     100     A
+       Mark Carswell               90      80      70      86     B
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           MA102 IS     3
+
+          CLASS CODE  MA103
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Judge Judy                  90      80      70      86     B
+       Donny Clark                 80      60      85      90     C
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           MA103 IS     2
+
+          CLASS CODE  MA104
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Magnolia Blossom            90      87      50      45     D
+       Rose Budd                   90      60      30      80     D
+       Star Smith                 100      90      95      84     A
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           MA104 IS     3
+
+          CLASS CODE  MA250
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Harry Potter                75      85      74      70     C
+       Anne Rice                   82      83      84      85     B
+       Steven Tyler               100      90      99      98     A
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           MA250 IS     3
+
+
+TOTAL NUMBER OF STUDENTS FOR DEPARTMENT      MATH IS     14
+
+
+TOTAL STUDENTS FOR ALL DEPARTMENTS IS                    26
